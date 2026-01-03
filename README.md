@@ -12,7 +12,7 @@
 ## 🛠 Tech Stack 💻
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,angular,spring,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,angular,html,css,ts,spring,git,github,mysql" />
 </p>
 
 ### 🧠 Machine Learning Libraries

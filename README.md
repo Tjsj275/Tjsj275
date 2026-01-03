@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tejas Joshi</h1>
+<h3 align="center">Electronics | AI/ML | Full-Stack Developer</h3>
 
-<!--
-**Tjsj275/Tjsj275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building intelligent systems using ML + Angular + Spring Boot  
+🎓 3rd Year Electronics Student at NSUT  
+💡 Interested in Core Electronics, AI/ML & System Design  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack 💻
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,angular,spring,git,github,mysql" />
+</p>
+
+### 🧠 Machine Learning Libraries
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- TensorFlow / PyTorch  
+- Matplotlib / Seaborn  
+
+---
+
+## 🌐 Social Channels 🌍
+
+<p align="left">
+<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/tejas-joshi-46bb8330a/)/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔊 Animal Voice Recognition | ML model to classify animals using sound input from ESP32 |
+| 📄 Sentiment Analysis | ML Model to classify a sentiment as positive or negative |
+| ⚙️ RUL Prediction Workflow | End-to-end ML pipeline to predict Remaining Useful Life (RUL) of machines using sensor data |

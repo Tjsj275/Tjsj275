@@ -40,4 +40,4 @@
 |--------|-------------|
 | 🔊 Animal Voice Recognition | ML model to classify animals using sound input from ESP32 |
 | 📄 Sentiment Analysis | ML Model to classify a sentiment as positive or negative |
-| ⚙️ RUL Prediction Workflow | End-to-end ML pipeline to predict Remaining Useful Life (RUL) of machines using sensor data |
+| ⚙️ RUL Prediction Model | End-to-end ML pipeline to predict Remaining Useful Life (RUL) of machines using sensor data |

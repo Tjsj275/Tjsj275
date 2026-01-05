@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Joshi</h1>
-<h3 align="center">Electronics | AI/ML | Full-Stack Developer</h3>
+<h3 align="center">AI/ML | Electronics | Full-Stack Developer</h3>
 
 <p align="center">
 🚀 Building intelligent systems using ML + Angular + Spring Boot  
